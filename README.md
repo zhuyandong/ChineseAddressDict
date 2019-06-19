@@ -1,4 +1,4 @@
-# fangxinAddress
+# ChineseAddressDict
 房新数据中文地址分词
 
 从邮政地址中解析分词，未标注词频
