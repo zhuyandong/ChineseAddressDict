@@ -43,3 +43,5 @@ room 房号
 11级	单元、门	UNIT
 12级	户、号数量、层数量、户描述	ROOM
 13级	描述词	DESC
+
+词库贡献请联系： mail@zhuyandong.com
